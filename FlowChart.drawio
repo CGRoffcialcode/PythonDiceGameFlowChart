@@ -23,6 +23,17 @@
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-5" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="413" y="298" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wXg5iF7JHhOf3Hfwet5-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-6" value="Create a Random number between 1 and 6 and put value in player1_value" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="355.5" y="380" width="117" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-8" value="Create a Random number between 1 and 6 and put value in player2_value" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="355.5" y="550" width="117" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
