@@ -133,8 +133,24 @@
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-213" value="Input &quot;Press enter to continue&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="485" y="180" width="160" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wXg5iF7JHhOf3Hfwet5-218">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-218" value="Output &quot;### GameOver! ###&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="-100" y="170" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wXg5iF7JHhOf3Hfwet5-220">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-220" value="Output &quot;&quot;Player1_score: &quot;, player1_score&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="350" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-222" value="Output &quot;&quot;Player2_score: &quot;, player2_score&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="570" width="450" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
