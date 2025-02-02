@@ -181,7 +181,7 @@
             <mxPoint x="-459.9999999999998" y="728" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBzinSa78rvJCXBgX5P1-7" value="Output &quot;Player 1 score&#39;s is bigger!+&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="WBzinSa78rvJCXBgX5P1-7" value="Output &quot;Player 1 wins!&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="698" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-10" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
@@ -211,11 +211,22 @@
             <mxPoint x="-459.9999999999998" y="908" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBzinSa78rvJCXBgX5P1-18" value="Output &quot;Player 2 score&#39;s is bigger!+&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="WBzinSa78rvJCXBgX5P1-18" value="Output &quot;Player 2 wins!&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="878" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-19" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-570" y="878" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBzinSa78rvJCXBgX5P1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBzinSa78rvJCXBgX5P1-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-244.99999999999977" y="1078" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBzinSa78rvJCXBgX5P1-31" value="Player 1 and Player 2 have the same score!&lt;div&gt;It&#39;s a draw!&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="1048" width="285" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBzinSa78rvJCXBgX5P1-32" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="1048" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
