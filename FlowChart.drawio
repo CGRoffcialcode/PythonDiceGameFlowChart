@@ -1,233 +1,218 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="tGh5VpC0TgsUZTne9GT4">
-    <mxGraphModel dx="5266" dy="2109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-1" target="5wXg5iF7JHhOf3Hfwet5-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="200" as="targetPoint" />
+            <mxPoint x="756" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-1" value="BEGIN" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="364" y="50" width="100" height="60" as="geometry" />
+          <mxGeometry x="706" y="20" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-3" target="5wXg5iF7JHhOf3Hfwet5-201" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="413" y="323.01" as="targetPoint" />
+            <mxPoint x="755" y="273.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-3" edge="1" target="5wXg5iF7JHhOf3Hfwet5-218">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="200" as="targetPoint" />
+            <mxPoint x="552" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-3" value="Is i&amp;nbsp; &amp;lt; 10?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="364" y="150" width="100" height="100" as="geometry" />
+          <mxGeometry x="706" y="100" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="550" as="targetPoint" />
+            <mxPoint x="756" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-6" value="Create a Random number between 1 and 6 and put value in player1_value" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="355.5" y="420" width="117" height="100" as="geometry" />
+          <mxGeometry x="697.5" y="370" width="117" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-8" value="Create a Random number between 1 and 6 and put value in player2_value" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="355.5" y="550" width="117" height="100" as="geometry" />
+          <mxGeometry x="697.5" y="500" width="117" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-9" target="5wXg5iF7JHhOf3Hfwet5-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-9" value="Output &quot;&quot;Player 1 rolled&quot; + player1_value&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="250" y="710" width="311" height="80" as="geometry" />
+          <mxGeometry x="592" y="660" width="311" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-8" target="5wXg5iF7JHhOf3Hfwet5-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-11" target="5wXg5iF7JHhOf3Hfwet5-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="413.9999999999998" y="1030" as="targetPoint" />
+            <mxPoint x="755.9999999999998" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-11" value="Output &quot;&quot;Player 2 rolled&quot; + player2_value&quot;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="258.5" y="840" width="311" height="80" as="geometry" />
+          <mxGeometry x="600.5" y="790" width="311" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="1120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5wXg5iF7JHhOf3Hfwet5-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="1020" as="targetPoint" />
+            <mxPoint x="756" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-14" value="Is player1_value &amp;gt; player2_value?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="305.5" y="970" width="217" height="100" as="geometry" />
+          <mxGeometry x="647.5" y="920" width="217" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-186" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="415" y="1078" width="50" height="30" as="geometry" />
+          <mxGeometry x="757" y="1028" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-187" target="5wXg5iF7JHhOf3Hfwet5-188" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-187" value="Output &quot;Player 1 wins&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="305.5" y="1120" width="224.5" height="60" as="geometry" />
+          <mxGeometry x="647.5" y="1070" width="224.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-188" value="Increase player1_score by 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="365" y="1210" width="100" height="100" as="geometry" />
+          <mxGeometry x="707" y="1160" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-191" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="530" y="990" width="50" height="30" as="geometry" />
+          <mxGeometry x="924.75" y="930" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-192" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="695" y="1140" as="targetPoint" />
+            <mxPoint x="1037" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.439;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-192" target="5wXg5iF7JHhOf3Hfwet5-200" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="695" y="850" as="targetPoint" />
+            <mxPoint x="1037" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-192" value="Is player2_value &amp;gt; player1_value?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="610" y="970" width="170" height="100" as="geometry" />
+          <mxGeometry x="960" y="727" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-194" value="True&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1073" width="50" height="40" as="geometry" />
+          <mxGeometry x="1050" y="960" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-195" target="5wXg5iF7JHhOf3Hfwet5-196" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-195" value="Output &quot;Player 2 wins&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="582.75" y="1140" width="224.5" height="60" as="geometry" />
+          <mxGeometry x="924.75" y="1090" width="224.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-196" value="Increase player2_score by 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="645" y="1220" width="100" height="100" as="geometry" />
+          <mxGeometry x="987" y="1170" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-199" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="695" y="888" width="50" height="30" as="geometry" />
+          <mxGeometry x="1050" y="670" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5wXg5iF7JHhOf3Hfwet5-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-200" target="5wXg5iF7JHhOf3Hfwet5-213" edge="1">
+        <mxCell id="WBzinSa78rvJCXBgX5P1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="5wXg5iF7JHhOf3Hfwet5-200" target="5wXg5iF7JHhOf3Hfwet5-213">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-200" value="Output &quot;It&#39;&#39;s a draw!&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="672" y="180" width="155" height="60" as="geometry" />
+          <mxGeometry x="997.5" y="130" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-201" target="5wXg5iF7JHhOf3Hfwet5-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-201" value="Increase i by 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="364" y="340" width="100" height="50" as="geometry" />
+          <mxGeometry x="706" y="290" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-203" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="414" y="288" width="50" height="30" as="geometry" />
+          <mxGeometry x="756" y="238" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-211" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="235" y="158" width="50" height="30" as="geometry" />
+          <mxGeometry x="620" y="120" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-217" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-213" target="5wXg5iF7JHhOf3Hfwet5-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-213" value="Input &quot;Press enter to continue&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="485" y="180" width="160" height="90" as="geometry" />
+          <mxGeometry x="827" y="130" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-218" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="350" as="targetPoint" />
+            <mxPoint x="402" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-218" value="Output &quot;### GameOver! ###&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="170" width="320" height="60" as="geometry" />
+          <mxGeometry x="242" y="120" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" parent="1" source="5wXg5iF7JHhOf3Hfwet5-220" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65" y="570" as="targetPoint" />
+            <mxPoint x="407" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-220" value="Output &quot;&quot;Player1_score: &quot;, player1_score&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="350" width="450" height="80" as="geometry" />
+          <mxGeometry x="182" y="300" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="5wXg5iF7JHhOf3Hfwet5-222" target="WBzinSa78rvJCXBgX5P1-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="75" y="730" as="targetPoint" />
+            <mxPoint x="417" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-222" value="Output &quot;&quot;Player2_score: &quot;, player2_score&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="570" width="450" height="80" as="geometry" />
+          <mxGeometry x="192" y="520" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="WBzinSa78rvJCXBgX5P1-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="32.5" y="870" as="targetPoint" />
+            <mxPoint x="374.5" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="WBzinSa78rvJCXBgX5P1-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-150" y="730" as="targetPoint" />
+            <mxPoint x="192" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-2" value="Is Player1_score &amp;gt;&lt;div&gt;Player2_score?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="690" width="165" height="80" as="geometry" />
+          <mxGeometry x="292" y="640" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-5" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="710" width="50" height="30" as="geometry" />
+          <mxGeometry x="222" y="648" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-6" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="25" y="788" width="50" height="30" as="geometry" />
+          <mxGeometry x="382" y="738" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WBzinSa78rvJCXBgX5P1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-439.9999999999998" y="730" as="targetPoint" />
-            <mxPoint x="-230" y="730.0000000000002" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="WBzinSa78rvJCXBgX5P1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="WBzinSa78rvJCXBgX5P1-7" target="WBzinSa78rvJCXBgX5P1-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-7" value="Output &quot;Player 1 wins!&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="698" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WBzinSa78rvJCXBgX5P1-10" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="700" width="110" height="60" as="geometry" />
+          <mxGeometry x="82" y="648" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="WBzinSa78rvJCXBgX5P1-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="32.5" y="1050" as="targetPoint" />
+            <mxPoint x="374.5" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="WBzinSa78rvJCXBgX5P1-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-150" y="910" as="targetPoint" />
+            <mxPoint x="192" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-14" value="Is Player2_score &amp;gt;&lt;div&gt;Player1_score?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="870" width="165" height="80" as="geometry" />
+          <mxGeometry x="292" y="813" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-15" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="890" width="50" height="30" as="geometry" />
+          <mxGeometry x="222" y="813" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-16" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="25" y="968" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WBzinSa78rvJCXBgX5P1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="WBzinSa78rvJCXBgX5P1-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-459.9999999999998" y="908" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="382" y="920" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-18" value="Output &quot;Player 2 wins!&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="878" width="120" height="60" as="geometry" />
+          <mxGeometry x="82" y="828" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-19" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="878" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WBzinSa78rvJCXBgX5P1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="WBzinSa78rvJCXBgX5P1-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-244.99999999999977" y="1078" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="20" y="738" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBzinSa78rvJCXBgX5P1-31" value="Player 1 and Player 2 have the same score!&lt;div&gt;It&#39;s a draw!&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="1048" width="285" height="60" as="geometry" />
+          <mxGeometry x="297" y="998" width="285" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WBzinSa78rvJCXBgX5P1-32" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-355" y="1048" width="110" height="60" as="geometry" />
+        <mxCell id="WBzinSa78rvJCXBgX5P1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.364;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="WBzinSa78rvJCXBgX5P1-18" target="WBzinSa78rvJCXBgX5P1-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBzinSa78rvJCXBgX5P1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.11;entryY=0.89;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="WBzinSa78rvJCXBgX5P1-31" target="WBzinSa78rvJCXBgX5P1-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBzinSa78rvJCXBgX5P1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.24;entryY=0.771;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="5wXg5iF7JHhOf3Hfwet5-14" target="5wXg5iF7JHhOf3Hfwet5-192">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
