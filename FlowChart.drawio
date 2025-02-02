@@ -56,6 +56,11 @@
             <mxPoint x="414" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wXg5iF7JHhOf3Hfwet5-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-14" value="Is player1_value &amp;gt; player2_value?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="305.5" y="970" width="217" height="100" as="geometry" />
         </mxCell>
@@ -70,6 +75,29 @@
         </mxCell>
         <mxCell id="5wXg5iF7JHhOf3Hfwet5-188" value="Increase player1_score by 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="365" y="1210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-191" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="990" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wXg5iF7JHhOf3Hfwet5-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-192" value="Is player2_value &amp;gt; player1_value?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="970" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-194" value="True&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1073" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wXg5iF7JHhOf3Hfwet5-195" target="5wXg5iF7JHhOf3Hfwet5-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-195" value="Output &quot;Player 2 wins&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="582.75" y="1140" width="224.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wXg5iF7JHhOf3Hfwet5-196" value="Increase player2_score by 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="645" y="1220" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
